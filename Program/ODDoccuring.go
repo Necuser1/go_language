@@ -1,3 +1,9 @@
+/*
+	C/C++ Program to Find the Number Occurring Odd Number of Times
+
+	Given an array arr[] consisting of positive integers that occur even number of times, except one number, which occurs odd number of times. The task is to find this odd number of times occurring number.
+*/
+
 package main 
 
 import (
