@@ -1,0 +1,13 @@
+{
+	"app" :{
+	"myip": "127.0.0.1",
+	"myport" : "8070"
+	},
+	"db": {
+		"ip": "180.179.214.194",
+		"port": "5432",
+		"username": "postgres",
+		"password": "postgres",
+		"database": "golangdb"
+	}
+}
