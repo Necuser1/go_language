@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/comman"
+	"GO_PROJECT/pkg/comman"
 )
 
 //var dbstatus map[string]bool

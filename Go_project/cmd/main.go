@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/config"
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/database"
-	routes "github.com/neerajsrivastav7/GO_PROJECT/pkg/routers"
+	"GO_PROJECT/pkg/config"
+	"GO_PROJECT/pkg/database"
+	routes "GO_PROJECT/pkg/routers"
 )
 
 func main() {

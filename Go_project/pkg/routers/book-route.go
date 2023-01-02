@@ -3,9 +3,10 @@ package routes
 import (
 	"strconv"
 
+	"GO_PROJECT/pkg/comman"
+	"GO_PROJECT/pkg/controllers"
+
 	"github.com/gin-gonic/gin"
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/comman"
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/controllers"
 )
 
 func Start(config comman.Application) {

@@ -3,7 +3,8 @@ package config
 import (
 	"fmt"
 
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/comman"
+	"GO_PROJECT/pkg/comman"
+
 	"github.com/spf13/viper"
 )
 

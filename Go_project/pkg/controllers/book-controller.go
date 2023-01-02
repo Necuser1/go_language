@@ -6,9 +6,10 @@ import (
 	"io/ioutil"
 	"net/http"
 
+	"GO_PROJECT/pkg/comman"
+	"GO_PROJECT/pkg/database"
+
 	"github.com/gin-gonic/gin"
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/comman"
-	"github.com/neerajsrivastav7/GO_PROJECT/pkg/database"
 )
 
 func CreateBook(c *gin.Context) {
