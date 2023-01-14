@@ -1,0 +1,17 @@
+{
+	"app" :{
+	"myip": "127.0.0.1",
+	"myport" : "8070"
+	},
+	"db": {
+		"ip": "180.179.214.211",
+		"port": "5432",
+		"username": "postgres",
+		"password": "postgres",
+		"database": "golangdb"
+	},
+	"jwt": {
+		"username" : "neeraj_srivastava",
+		"password": "abcd@12345" 
+	}
+}
