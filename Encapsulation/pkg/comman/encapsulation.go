@@ -1,6 +1,6 @@
 package comman
 
 type EncapsulateData struct {
-	Name       string
-	rollNumber string
+	Name       string   // This field is exported 
+	rollNumber string   // This field is not exported
 }
