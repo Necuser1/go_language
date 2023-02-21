@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"os"
 	"text/template"
@@ -9,7 +8,6 @@ import (
 
 func main() {
 	tpl, err := template.ParseFiles("tpl.gohtml")
-	fmt.Println(tpl.Mode)
 	if err != nil {
 		log.Fatalln(err)
 	}
